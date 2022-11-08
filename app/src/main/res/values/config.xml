@@ -9,7 +9,7 @@
     <string name="assistant_apikey">"vZfL9X-PuRtbrS8CpsGYkeqANimyYNc5auyHZ0x3O1IT"</string>
 
     <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
-    <string name="assistant_url">"https://api.us-south.assistant.watson.cloud.ibm.com/instances/add7b416-035d-4b15-8c3a-af9ce89024fc/v2/assistants/aeaa5aba-c21d-4ab7-bf42-53675602071c/sessions"</string>
+    <string name="assistant_url">"https://api.us-south.assistant.watson.cloud.ibm.com/instances/add7b416-035d-4b15-8c3a-af9ce89024fc"</string>
 
 
     <!--Watson Speech To Text(STT) service credentials-->
